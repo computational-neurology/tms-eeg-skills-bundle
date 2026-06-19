@@ -1,0 +1,21 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local editor and environment noise
+.vscode/
+.idea/
+*.swp
+*.swo
+.env
+.env.*
+
+# Python/cache artifacts from local skill tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local raw source corpus used to author distilled TMS-EEG skill cards
+TMS-EEG-artifacts/
