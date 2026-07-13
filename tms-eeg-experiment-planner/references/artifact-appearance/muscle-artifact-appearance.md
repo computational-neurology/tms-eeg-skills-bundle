@@ -24,9 +24,18 @@ In averaged data, time-locked muscle activity may appear as sharp early deflecti
 
 ## Timing Clues
 
-- Very early post-pulse onset.
+- Very early post-pulse onset: the peak typically emerges just after the TMS-pulse artifact, at latencies later than `~4 ms`.
 - Often overlaps the early TEP/i-TEP window.
 - May be consistently time-locked if the same scalp muscle or cranial nerve is stimulated on each pulse.
+
+## The Early Peak You See Online Is Not the Participant's Twitch
+
+Keep two different "muscle" signals separate, especially at non-motor targets (e.g., DLPFC) where they are easily conflated:
+
+- **Early muscle-artifact peak (EEG):** the early, bipolar/MEP-like deflection described above, later than `~4 ms` and focal over frontal/temporal/jaw/facial channels. In a low-trial online average it is frequently the *only* time-locked activity visible in the early window, and it can be mistaken for an early cortical/i-TEP response.
+- **Felt/visible muscle twitch (behavior):** the participant-facing contraction that causes discomfort. It is a comfort/compliance signal and is often absent at non-motor sites.
+
+These are decoupled: the early EEG peak can be large even when the participant reports no twitch, so "the participant is comfortable" is not evidence that the early window is muscle-free. Judge the early window from the EEG peak itself, not from participant comfort.
 
 ## Topography Clues
 

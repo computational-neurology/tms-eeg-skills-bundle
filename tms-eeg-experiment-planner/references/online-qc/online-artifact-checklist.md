@@ -13,6 +13,7 @@ tags:
 - Confirm trigger timing and event labels.
 - Inspect single trials around TMS pulse.
 - Mark pulse artifact duration, recharge/discharge, and decay behavior.
+- Inspect the early muscle-artifact peak: the bipolar/MEP-like deflection just after the pulse artifact (later than `~4 ms`), focal over frontal/temporal/jaw/facial channels. At non-motor targets it is often the only time-locked activity visible online and must not be read as an early cortical response. It is a separate signal from the participant's felt muscle twitch — check it in the EEG even when no twitch is reported.
 - Inspect craniofacial/scalp muscle activity.
 - Check auditory masking and participant comfort.
 - Compare active and sham/control artifact profile if possible.

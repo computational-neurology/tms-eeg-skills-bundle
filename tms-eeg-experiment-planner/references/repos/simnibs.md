@@ -32,4 +32,4 @@ Treating E-field maximum as proof of physiological engagement; ignoring online T
 
 ## Related Cards
 
-`targeting/neuronavigation-and-efield.md`; `repos/slicertms.md`; `repos/navinibs.md`.
+`targeting/neuronavigation-and-efield.md`; `targeting/coil-orientation-and-intensity.md`; `repos/slicertms.md`; `repos/navinibs.md`; `papers/balderston-2020-efield-optimized-fmri-guided-tms.md` (worked SimNIBS `mri2mesh`/`dwi2cond` + iterative yaw E-field pipeline).

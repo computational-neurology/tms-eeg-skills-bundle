@@ -15,10 +15,11 @@ tags:
 | session procedure or day-of checklist | `design/session-workflow.md` | `../templates/session-checklist.md`, `guidelines/recommendations-good-practice.md`, `online-qc/rt-tep-monitoring.md` |
 | target selection or artifact risk | `routing/target-risk-routing.md` | relevant `targets/*.md`, `artifacts/target-specific-artifact-risks.md` |
 | tactile feeling or somatosensory TMS-EEG | `targets/somatosensory-s1.md` | `guidelines/tactile-feeling-local-notes.md`, `design/sham-and-sensory-controls.md`, `papers/hernandez-pavon-2023-recommendations-open-issues.md` |
-| coil orientation or coil position | `targeting/coil-orientation-and-intensity.md` | coil orientation paper cards |
+| coil orientation or coil position | `targeting/coil-orientation-and-intensity.md` | coil orientation paper cards, `papers/gomez-tames-2018-atlas-optimal-coil-orientation.md`, `papers/balderston-2020-efield-optimized-fmri-guided-tms.md` |
+| fMRI-defined ROI target or fMRI-guided targeting | `targeting/neuronavigation-and-efield.md` | `papers/balderston-2020-efield-optimized-fmri-guided-tms.md`, `targeting/coil-orientation-and-intensity.md`, `repos/simnibs.md` |
 | RMT, intensity, or TEP threshold | `targeting/rmt-vs-tep-threshold.md` | `online-qc/rt-tep-monitoring.md` |
 | sham, click masking, or sensory controls | `design/sham-and-sensory-controls.md` | `papers/gordon-2018-realistic-sham.md`, `papers/gordon-2026-somatosensory-inputs.md`, `papers/grasin-2019-realistic-sham.md` |
-| neuronavigation or E-field simulation | `targeting/neuronavigation-and-efield.md` | `repos/simnibs.md`, `repos/nexstim-efield-navigation.md`, `repos/slicertms.md`, `repos/navinibs.md`, `papers/hernandez-pavon-2023-recommendations-open-issues.md` |
+| neuronavigation or E-field simulation | `targeting/neuronavigation-and-efield.md` | `repos/simnibs.md`, `repos/nexstim-efield-navigation.md`, `repos/slicertms.md`, `repos/navinibs.md`, `papers/balderston-2020-efield-optimized-fmri-guided-tms.md`, `papers/hernandez-pavon-2023-recommendations-open-issues.md` |
 | real-time TEP monitoring | `online-qc/rt-tep-monitoring.md` | `papers/casarotto-2022-rt-tep-tool.md` |
 | i-TEP acquisition | `online-qc/itep-acquisition-practice.md` | `papers/beck-2024-iteps.md`, `artifacts/channel-lead-preparation-decay-avoidance.md` |
 | channel prep, decay, recharge, lead orientation | `artifacts/channel-lead-preparation-decay-avoidance.md` | `papers/lankinen-2026-lead-configuration-early-artifacts.md` |

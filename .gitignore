@@ -3,6 +3,12 @@
 **/.DS_Store
 .AppleDouble
 .LSOverride
+# AppleDouble resource-fork files (e.g. ._filename)
+._*
+# Archive extraction cruft
+__MACOSX/
+# Custom Finder folder icons
+Icon?
 
 # Local editor and environment noise
 .vscode/

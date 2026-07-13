@@ -18,7 +18,7 @@ Plan acquisition when immediate TEPs or very early post-pulse responses are endp
 - Separate the initial TMS-pulse artifact from later decay/back-to-baseline recovery.
 - High sampling rate helps characterize and shorten the visible TMS-pulse artifact, but it does not fully solve decay artifacts.
 - Treat stimulation intensity as an important determinant of decay/back-to-baseline duration.
-- Manage scalp muscle activity actively with online inspection and small coil shifts.
+- Manage scalp muscle activity actively with online inspection and small coil shifts. Watch specifically for the early muscle-artifact peak — a bipolar/MEP-like deflection just after the pulse artifact (later than `~4 ms`) — which overlaps the i-TEP window and is often the only time-locked activity visible online. It is distinct from the participant's felt muscle twitch (often absent at non-motor sites), so inspect the EEG peak directly rather than inferring cleanliness from participant comfort, and do not accept it as an i-TEP without control-condition evidence.
 - Require pulse artifact duration/recovery documentation.
 - Track lead configuration and sampling/synchronization.
 - Use current-direction/polarity controls when testing whether early peaks are neural rather than pulse-polarity artifacts.

@@ -22,6 +22,7 @@ RMT indexes corticospinal excitability for motor cortex. TEP quality indexes EEG
 - For non-motor targets, adjust intensity based on online TEP visibility, artifact profile, discomfort, and safety limits.
 - Treat early local TEP amplitude as a QC variable. Local notes suggest about `8-10 uV` peak-to-peak in `8-50 ms` near the coil as a practical acquisition target, not a universal threshold.
 - If increasing intensity improves late N100/P200 but not early local response, suspect sensory contamination.
+- For non-motor targets, treat the early muscle-artifact peak as an intensity ceiling. This is the bipolar/MEP-like deflection appearing after the TMS-pulse artifact at latencies later than `~4 ms`, focal over frontal/temporal/jaw/facial channels; it grows with intensity and is frequently the only time-locked activity visible in the online average. Do not raise intensity on the basis that "the participant is not twitching" — the felt muscle twitch and this early EEG muscle-artifact peak are separate signals, and at non-motor sites the peak can be large while no twitch is felt. Increase intensity only while this early bipolar peak stays low enough that the planned early window remains interpretable.
 - Retune auditory masking whenever intensity changes.
 
 ## Output Rule
