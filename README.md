@@ -9,6 +9,15 @@
   A methodological bundle of separately callable TMS-EEG agent skills.
 </p>
 
+## Installation and Use
+
+The bundle can be used in several ways, depending on the agent environment and how that environment discovers skills.
+
+1. **Claude.** Package each skill folder as a ZIP file and upload it through the Claude Skills interface. Where available, this can be done through `Settings > Skills`; alternatively, provide the ZIP in chat and ask Claude to install or create the skill.
+2. **Claude Code.** Copy the skill folders directly into the local skills directory. Project-specific skills can be placed in `.claude/skills/`, while personal skills can be placed in `~/.claude/skills/`. Each skill folder includes a `SKILL.md` file and supporting `references/`, `recipes/`, and `templates/` folders.
+3. **ChatGPT / Codex desktop app.** Manage skills through the desktop app by opening `Settings > Plugins` and selecting the Skills area or tab, where supported. The same skill folders can be uploaded or installed there, depending on workspace permissions and the available interface.
+4. **Project-folder use.** For repository-based use, add the bundle directly to the project folder, for example under `.agents/skills/` for Codex or another documented location. If formal skill detection is not available, add instructions in `AGENTS.md`, `CLAUDE.md`, or the relevant project instruction file telling the agent to consult the appropriate `SKILL.md` first and load only the necessary cards, recipes, or templates.
+
 ## Included Skills
 
 | Skill | Role |
