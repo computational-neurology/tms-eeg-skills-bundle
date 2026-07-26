@@ -39,7 +39,9 @@ Community validation and contributions are welcome. If you identify an error, an
 
 ## Disclaimer
 
-AI assistance should be treated as assistance: it is not intended to replace expert review, direct dataset inspection, or engagement with the primary literature.
+AI assistance should be treated as support rather than a substitute for expert review, dataset inspection, or safety oversight during real experiments. The bundle includes constraints to reduce overreach: it does not imply that preprocessing can rescue data dominated by acquisition artifacts, or that TEP components can be interpreted definitively. Stimulation parameters, target locations, coil orientation, safety limits, and participant-specific constraints must always be verified against safety guidelines, local protocols, and expert supervision before implementation.
+
+Several risks remain. AI models can produce fluent but incorrect statements, and recommendations should be checked against the cited primary literature and toolbox documentation. Performance may also vary across model versions, and the knowledge base may lag behind the literature or reflect gaps in the curated sources. For this reason, the card architecture is versioned and open to correction.
 
 ## License
 
