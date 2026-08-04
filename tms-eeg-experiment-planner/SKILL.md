@@ -32,6 +32,7 @@ Use this skill when a user asks how to design, prepare, or run a TMS-EEG experim
 - Channel/lead preparation: `references/artifacts/channel-lead-preparation-decay-avoidance.md`
 - Artifact appearance triage: `references/artifact-appearance/`
 - Practical good-practice anchor: `references/guidelines/recommendations-good-practice.md`
+- Reporting standard and TMS-RAT mapping: `references/guidelines/reporting-tms-rat-mapping.md`
 - Protocol template: `templates/experiment-protocol-template.md`
 - Session checklist template: `templates/session-checklist.md`
 - Preregistration/methods template: `templates/preregistration-methods-template.md`
@@ -46,3 +47,4 @@ Use this skill when a user asks how to design, prepare, or run a TMS-EEG experim
 - For DLPFC/frontal/lateral targets, flag muscle and sensory confounds early.
 - For tactile-feeling or somatosensory questions, separate cortical target response, scalp sensation, auditory/somatosensory PEPs, and subjective report.
 - For software/tooling questions, use Context7 or official/GitHub fallback sources when current APIs matter.
+- For reporting questions, use TMS-RAT v1.0 (prospective) and never v1.1 (retrospective rating subset) as a writing guide. State that TMS-RAT is not validated for TMS-EEG, and cover the EEG acquisition and TEP-measures items it has no section for.

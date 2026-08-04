@@ -28,7 +28,8 @@ tags:
 | decay artifact appearance | `artifact-appearance/decay-artifact-appearance.md` | `artifacts/channel-lead-preparation-decay-avoidance.md`, `papers/stango-2025-high-frequency-sampling-artifacts.md` |
 | muscle artifact appearance | `artifact-appearance/muscle-artifact-appearance.md` | `artifacts/target-specific-artifact-risks.md`, target-risk routing |
 | state-dependent or closed-loop design | `design/state-dependent-closed-loop.md` | `papers/wischnewski-2024-real-time-tms-eeg.md`, `papers/stefanou-2019-brain-state-dependent.md` |
-| methods/preregistration text | `design/study-design-checklist.md` | `../templates/preregistration-methods-template.md`, `guidelines/recommendations-good-practice.md` |
+| methods/preregistration text | `design/study-design-checklist.md` | `../templates/preregistration-methods-template.md`, `guidelines/recommendations-good-practice.md`, `guidelines/reporting-tms-rat-mapping.md` |
+| reporting standards, checklists, reporting completeness, TMS-RAT, Chipchase checklist, reviewer asking for missing methods detail | `guidelines/reporting-tms-rat-mapping.md` | `../templates/experiment-protocol-template.md`, `../templates/preregistration-methods-template.md`, `design/study-design-checklist.md` |
 
 ## Required Metadata
 
