@@ -41,6 +41,23 @@ and E-field visualization:
 See `targeting/coil-orientation-and-intensity.md` and `targeting/neuronavigation-and-efield.md`
 for the full orientation/position workflow.
 
+## Expected Burden, Quantified
+
+Prefrontal cortex is the worst of the commonly studied non-motor sites on every sensory and artifact axis simultaneously (Biabani et al. 2024, `n = 135`, prefrontal vs premotor vs parietal):
+
+| | Prefrontal | Premotor | Parietal |
+|---|---|---|---|
+| Residual muscle artifact surviving ICA | **62.1%** of individuals | 34.5% | 0% |
+| Perceived click loudness | highest (despite **lowest** intensity) | mid | mid |
+| Twitch / discomfort / pain ratings | highest | mid | lowest |
+| White-noise masking effectiveness | worst | good | best |
+| N100/P200 amplitude | largest | mid | smallest |
+| Early-TEP PC1 variance explained | **44%** | 89% | 72% |
+
+Two planning consequences. First, expect roughly **two in three participants** to carry residual muscle artifact into the cleaned early window here — budget for it at acquisition (coil angle and position adjustment, online inspection of the 5-15 ms window) rather than planning to remove it with ICA afterwards. Second, the largest N100/P200 at this site is partly a sensory effect, not a physiological one: it tracks the sensory ratings, so a DLPFC-versus-other-site amplitude difference is expected from sensation alone.
+
+Early TEPs at this site remain **site-specific and unaltered by auditory masking** — the site-specificity is real, confirmed on the subgroup with no visible muscle activity — but their **topography is unreliable in the majority of individuals**. Plan an early-window analysis here only with a pre-registered muscle vs no-muscle subgroup check on uncleaned epochs.
+
 ## Practical Advice
 
 Use online TEP monitoring to find a target/orientation with interpretable early local responses and manageable muscle artifact. Record blinks before DLPFC sessions when ICA will be used. Consider backup medial/posterior or lower-muscle target options if anterior/lateral DLPFC is too contaminated.
@@ -51,4 +68,4 @@ For muscle artifact, inspect single trials and short averages for a focal high-f
 
 ## Sources
 
-Gogulski 2024 DLPFC reliability/mapping; Gomez-Tames et al. 2018 coil-orientation atlas (`papers/gomez-tames-2018-atlas-optimal-coil-orientation.md`); Maki 2011 muscle projection; Biabani et al. 2019; local good-practice note.
+Gogulski 2024 DLPFC reliability/mapping; Gomez-Tames et al. 2018 coil-orientation atlas (`papers/gomez-tames-2018-atlas-optimal-coil-orientation.md`); Maki 2011 muscle projection; Biabani et al. 2019; `papers/biabani-2024-sensory-inputs-three-sites.md` (site-burden table); local good-practice note.

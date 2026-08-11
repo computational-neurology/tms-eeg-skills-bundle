@@ -37,13 +37,25 @@ tags:
 - Test candidate orientations/intensities if the protocol allows optimization.
 - Save target and coil setup evidence.
 
+## Click Recording (Only When Setup Changed)
+
+Skip if the existing click recording still matches the stimulator, coil, and intensity.
+
+- **Safety first: microphone and all metal objects out of the magnetic field.** Metal within the field can be thrown violently.
+- Omnidirectional microphone, no filtering or distortion in the chain, ~25 cm laterally to the coil.
+- Record at 96 kHz, deliver a few pulses, crop from the sharp transient to return-to-baseline.
+- Re-record whenever the stimulator, coil, or (device-dependent) intensity changes.
+
 ## Sensory Control Setup
 
-- Fit ear protection and masking audio.
-- Tune masking after stimulation intensity is chosen.
+- Fit in-ear earphones and masking audio.
+- Tune masking after stimulation intensity is chosen, **under real TMS — not sham**. Real stimulation needs roughly 6 dB more masking than sham.
+- Titrate by raising volume until the participant detects no click across 10 consecutive pulses, with jittered inter-pulse intervals.
+- Verify masking by inspecting the online average for N100/P200 — absence of the AEP complex is the reliable criterion, not self-report. For participants who cannot report perception, this is the only available check.
 - Add foam/spacer or scalp-contact control if planned.
 - Run sham/control setup checks.
 - Record tolerability and perceived loudness/scalp sensation.
+- Note total planned noise exposure time against hearing-safety limits for long sessions.
 
 ## Online QC Before Main Block
 
@@ -58,7 +70,7 @@ tags:
 
 - Monitor target drift and coil angle.
 - Monitor EEG trace, trigger timing, and rejection rate.
-- Recheck masking and comfort after intensity changes.
+- Recheck masking and comfort after intensity, coil, or target changes, and re-verify the AEP check.
 - Pause if decay, muscle, or synchronization artifacts appear.
 - Log all deviations and adjustments.
 

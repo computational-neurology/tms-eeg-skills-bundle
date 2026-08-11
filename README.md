@@ -69,6 +69,8 @@ This project is licensed under the MIT License.
 
 - <sub>Biabani M, Fornito A, Mutanen T P, Morrow J, Rogasch N C (2019). Characterizing and minimizing the contribution of sensory inputs to TMS-evoked potentials. <i>Brain Stimulation</i> 12(6):1537–1552. <a href="https://doi.org/10.1016/j.brs.2019.07.009">10.1016/j.brs.2019.07.009</a></sub>
 
+- <sub>Biabani M, Fornito A, Goldsworthy M, Thompson S, Graetz L, Semmler J G, Opie G M, Bellgrove M A, Rogasch N C (2024). Characterising the contribution of auditory and somatosensory inputs to TMS-evoked potentials following stimulation of prefrontal, premotor, and parietal cortex. <i>Imaging Neuroscience</i> 2. <a href="https://doi.org/10.1162/imag_a_00349">10.1162/imag_a_00349</a></sub>
+
 - <sub>Casali A G, Rosanova M, Massimini M, et al. (2012). Recovery of cortical effective connectivity and recovery of consciousness in vegetative patients. <i>Brain</i> 135(4):1308–1320. <a href="https://doi.org/10.1093/brain/awr340">10.1093/brain/awr340</a></sub>
 
 - <sub>Casarotto S, Fecchio M, Rosanova M, Varone G, D'Ambrosio S, Sarasso S, Russo S, Comanducci A, Ilmoniemi R J, Massimini M (2022). The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical activation and minimize artifacts. <i>Journal of Neuroscience Methods</i> 370:109486. <a href="https://doi.org/10.1016/j.jneumeth.2021.109486">10.1016/j.jneumeth.2021.109486</a></sub>
@@ -129,6 +131,8 @@ This project is licensed under the MIT License.
 
 - <sub>Rosanova M, Casali A, Bellina V, Resta F, Mariotti M, Massimini M (2009). Natural frequencies of human corticothalamic circuits. <i>Journal of Neuroscience</i> 29(24):7679–7685.</sub>
 
+- <sub>Russo S, Sarasso S, Puglisi G E, Dal Palù D, Pigorini A, Casarotto S, D'Ambrosio S, Astolfi A, Massimini M, Rosanova M, Fecchio M (2022). TAAC — TMS Adaptable Auditory Control: a universal tool to mask TMS clicks. <i>Journal of Neuroscience Methods</i> 370:109491. <a href="https://doi.org/10.1016/j.jneumeth.2022.109491">10.1016/j.jneumeth.2022.109491</a></sub>
+
 - <sub>Stango A, Zazio A, Barchiesi G, Bonfiglio N S, Bortoletto M (2025). Impact of high-frequency sampling rate and stimulation intensity on early TMS artifacts: considerations for immediate TMS-EEG responses. <i>NeuroImage</i> 320:121526. <a href="https://doi.org/10.1016/j.neuroimage.2025.121526">10.1016/j.neuroimage.2025.121526</a></sub>
 
 - <sub>Stefanou M-I, Desideri D, Belardinelli P, Zrenner C, Ziemann U (2019). Brain state-dependent brain stimulation with real-time electroencephalography-triggered transcranial magnetic stimulation. <i>Journal of Visualized Experiments</i> 150.</sub>
@@ -145,6 +149,8 @@ This project is licensed under the MIT License.
 
 - <sub><b>AARATEP Pipeline</b> — <a href="https://github.com/chriscline/AARATEPPipeline">github.com/chriscline/AARATEPPipeline</a></sub>
 
+- <sub><b>CAMpy-TMS</b> (Python TMS click masking noise generator) — <a href="https://github.com/kolascoco/CAMpy-TMS">github.com/kolascoco/CAMpy-TMS</a></sub>
+
 - <sub><b>MNE-Python</b> — <a href="https://mne.tools/">mne.tools</a> · <a href="https://github.com/mne-tools/mne-python">github.com/mne-tools/mne-python</a></sub>
 
 - <sub><b>NaviNIBS</b> — <a href="https://github.com/precisionneurolab/navinibs">github.com/precisionneurolab/navinibs</a></sub>
@@ -160,6 +166,8 @@ This project is licensed under the MIT License.
 - <sub><b>SimNIBS</b> — <a href="https://simnibs.github.io/simnibs/build/html/index.html">simnibs.github.io</a> · <a href="https://github.com/simnibs/simnibs">github.com/simnibs/simnibs</a></sub>
 
 - <sub><b>SlicerTMS</b> — <a href="https://github.com/lorifranke/SlicerTMS">github.com/lorifranke/SlicerTMS</a></sub>
+
+- <sub><b>TAAC (TMS Adaptable Auditory Control)</b> — <a href="https://github.com/iTCf/TAAC">github.com/iTCf/TAAC</a></sub>
 
 - <sub><b>TESA (TMS-EEG Signal Analyser)</b> — <a href="https://github.com/nigelrogasch/TESA">github.com/nigelrogasch/TESA</a></sub>
 

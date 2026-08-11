@@ -24,6 +24,7 @@ Use this skill when a user asks how to design, prepare, or run a TMS-EEG experim
 - Study/session design: `references/design/study-design-checklist.md`
 - Trial count/reliability: `references/design/trial-count-and-reliability.md`
 - Sham/sensory controls: `references/design/sham-and-sensory-controls.md`
+- Auditory click masking: `references/design/auditory-masking.md`
 - Coil orientation/intensity: `references/targeting/coil-orientation-and-intensity.md`
 - RMT versus TEP threshold: `references/targeting/rmt-vs-tep-threshold.md`
 - Neuronavigation/E-field: `references/targeting/neuronavigation-and-efield.md`
@@ -45,6 +46,7 @@ Use this skill when a user asks how to design, prepare, or run a TMS-EEG experim
 - When asked what an artifact looks like, separate appearance heuristics from interpretation and load artifact-appearance cards before making a physiological claim.
 - For i-TEPs, require high temporal precision, online artifact checks, lead-configuration awareness, and explicit pulse-artifact controls.
 - For DLPFC/frontal/lateral targets, flag muscle and sensory confounds early.
+- Do not plan a between-site or between-group TEP amplitude comparison without collecting sensory ratings. N100/P200 differences are expected from differences in perceived click loudness and scalp muscle twitch alone.
 - For tactile-feeling or somatosensory questions, separate cortical target response, scalp sensation, auditory/somatosensory PEPs, and subjective report.
 - For software/tooling questions, use Context7 or official/GitHub fallback sources when current APIs matter.
 - For reporting questions, use TMS-RAT v1.0 (prospective) and never v1.1 (retrospective rating subset) as a writing guide. State that TMS-RAT is not validated for TMS-EEG, and cover the EEG acquisition and TEP-measures items it has no section for.

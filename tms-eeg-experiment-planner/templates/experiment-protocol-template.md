@@ -115,7 +115,15 @@ All fields in this section are `[EEG-ext]` — TMS-RAT has no EEG acquisition se
 ## Sham And Sensory Control
 
 - Sham/control type `[C8]`:
-- Auditory masking — noise type, level, verification `[C9]` + `[EEG-ext]` detail:
+- Auditory masking — noise type (white / adapted / customised) `[C9]`:
+- Click recording source — stimulator, coil, intensity, sampling rate `[EEG-ext]`:
+- Masking generation tool and parameter set `[EEG-ext]`:
+- Delivery — in-ear earphones / headphones, model `[EEG-ext]`:
+- Titration criterion and condition titrated under (must be real TMS) `[EEG-ext]`:
+- Masking verification method — AEP N100/P200 check, self-report `[EEG-ext]`:
+- Measured SPL, or explicit statement that SPL was not measured `[EEG-ext]`:
+- Planned noise exposure duration vs hearing-safety limit `[EEG-ext]`:
+- Masking re-tuning triggers `[EEG-ext]`:
 - Scalp sensation control `[C9]`:
 - Foam/spacer/contact plan:
 - Sensory ratings:

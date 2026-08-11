@@ -18,7 +18,9 @@ tags:
 | coil orientation or coil position | `targeting/coil-orientation-and-intensity.md` | coil orientation paper cards, `papers/gomez-tames-2018-atlas-optimal-coil-orientation.md`, `papers/balderston-2020-efield-optimized-fmri-guided-tms.md` |
 | fMRI-defined ROI target or fMRI-guided targeting | `targeting/neuronavigation-and-efield.md` | `papers/balderston-2020-efield-optimized-fmri-guided-tms.md`, `targeting/coil-orientation-and-intensity.md`, `repos/simnibs.md` |
 | RMT, intensity, or TEP threshold | `targeting/rmt-vs-tep-threshold.md` | `online-qc/rt-tep-monitoring.md` |
-| sham, click masking, or sensory controls | `design/sham-and-sensory-controls.md` | `papers/gordon-2018-realistic-sham.md`, `papers/gordon-2026-somatosensory-inputs.md`, `papers/grasin-2019-realistic-sham.md` |
+| sham or sensory controls | `design/sham-and-sensory-controls.md` | `papers/biabani-2024-sensory-inputs-three-sites.md`, `papers/gordon-2018-realistic-sham.md`, `papers/gordon-2026-somatosensory-inputs.md`, `papers/grasin-2019-realistic-sham.md` |
+| auditory masking, click perception, masking noise, TAAC, AEP contamination, hearing safety | `design/auditory-masking.md` | `papers/russo-2022-taac.md`, `repos/taac.md`, `repos/campy-tms.md`, `papers/biabani-2024-sensory-inputs-three-sites.md`, `online-qc/rt-tep-monitoring.md` |
+| comparing TEPs across stimulation sites, or matching dose between sites | `papers/biabani-2024-sensory-inputs-three-sites.md` | `targeting/rmt-vs-tep-threshold.md`, `targeting/neuronavigation-and-efield.md`, `repos/simnibs.md` |
 | neuronavigation or E-field simulation | `targeting/neuronavigation-and-efield.md` | `repos/simnibs.md`, `repos/nexstim-efield-navigation.md`, `repos/slicertms.md`, `repos/navinibs.md`, `papers/balderston-2020-efield-optimized-fmri-guided-tms.md`, `papers/hernandez-pavon-2023-recommendations-open-issues.md` |
 | real-time TEP monitoring | `online-qc/rt-tep-monitoring.md` | `papers/casarotto-2022-rt-tep-tool.md` |
 | i-TEP acquisition | `online-qc/itep-acquisition-practice.md` | `papers/beck-2024-iteps.md`, `artifacts/channel-lead-preparation-decay-avoidance.md` |

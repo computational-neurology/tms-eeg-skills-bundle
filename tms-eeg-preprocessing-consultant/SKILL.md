@@ -59,6 +59,7 @@ For manually prepared extended paper digests and preprocessing tables, follow `r
 ## Hard Rules
 
 - Do not claim TEP, GMFA, LMFP, or i-TEP amplitude is a pure measure of cortical excitability.
+- Do not compare TEP amplitude between stimulation sites or between participant groups without sensory ratings. N100/P200 differences are expected from differences in perceived click loudness and scalp muscle twitch alone.
 - Do not invent function signatures. Query Context7 when available; otherwise inspect the GitHub fallback in repo cards.
 - For i-TEPs, always mention residual pulse artifact, lead configuration, sampling/synchronization, recharge/decay, muscle artifact, and control-condition requirements.
 - Separate methodological advice from code assumptions. If metadata is missing, state placeholders and what must be confirmed.

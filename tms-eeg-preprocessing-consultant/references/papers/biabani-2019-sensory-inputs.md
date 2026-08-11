@@ -42,6 +42,10 @@ Do not describe TEP components as target-specific cortical physiology without se
 
 How can sensory inputs be characterized and minimized in TMS-EEG?
 
+## Extended By Biabani et al. 2024
+
+`papers/biabani-2024-sensory-inputs-three-sites.md` extends this work from motor cortex to prefrontal, premotor, and parietal cortex in `n = 135`. It replicates the ~60 ms boundary and the incomplete-masking finding, and adds three things this card does not cover: which *individual sensation* drives late TEPs (sound > twitch > discomfort, pain not at all), that masking efficacy differs by site, and that residual muscle artifact survives ICA in a majority of individuals at prefrontal sites. Load the 2024 card for any site-comparison or early-window-cleanliness question; keep this card for the SSP-SIR versus ICA versus regression comparison, which 2024 does not repeat.
+
 ## Related Cards
 
-`artifacts/auditory-somatosensory-confounds.md`; `papers/gordon-2018-realistic-sham.md`.
+`papers/biabani-2024-sensory-inputs-three-sites.md`; `artifacts/auditory-somatosensory-confounds.md`; `papers/gordon-2018-realistic-sham.md`.
