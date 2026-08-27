@@ -71,11 +71,13 @@ This project is licensed under the MIT License.
 
 - <sub>Biabani M, Fornito A, Goldsworthy M, Thompson S, Graetz L, Semmler J G, Opie G M, Bellgrove M A, Rogasch N C (2024). Characterising the contribution of auditory and somatosensory inputs to TMS-evoked potentials following stimulation of prefrontal, premotor, and parietal cortex. <i>Imaging Neuroscience</i> 2. <a href="https://doi.org/10.1162/imag_a_00349">10.1162/imag_a_00349</a></sub>
 
-- <sub>Casali A G, Rosanova M, Massimini M, et al. (2012). Recovery of cortical effective connectivity and recovery of consciousness in vegetative patients. <i>Brain</i> 135(4):1308–1320. <a href="https://doi.org/10.1093/brain/awr340">10.1093/brain/awr340</a></sub>
-
 - <sub>Casarotto S, Fecchio M, Rosanova M, Varone G, D'Ambrosio S, Sarasso S, Russo S, Comanducci A, Ilmoniemi R J, Massimini M (2022). The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical activation and minimize artifacts. <i>Journal of Neuroscience Methods</i> 370:109486. <a href="https://doi.org/10.1016/j.jneumeth.2021.109486">10.1016/j.jneumeth.2021.109486</a></sub>
 
+- <sub>Casarotto S, Hassan G, Rosanova M, Sarasso S, Derchi C-C, Trimarchi P D, Viganò A, Russo S, Fecchio M, Devalle G, Navarro J, Massimini M, Comanducci A (2024). Dissociations between spontaneous electroencephalographic features and the perturbational complexity index in the minimally conscious state. <i>European Journal of Neuroscience</i> 59(5):934–947. <a href="https://doi.org/10.1111/ejn.16299">10.1111/ejn.16299</a></sub>
+
 - <sub>Cline C C, Lucas M V, Sun Y, Menezes M, Etkin A (2021). Advanced artifact removal for automated TMS-EEG data processing. <i>10th International IEEE/EMBS Conference on Neural Engineering (NER)</i>:1039–1042. <a href="https://doi.org/10.1109/NER49283.2021.9441147">10.1109/NER49283.2021.9441147</a></sub>
+
+- <sub>Comolatti R, Pigorini A, Casarotto S, Fecchio M, Faria G, Sarasso S, Rosanova M, Gosseries O, Boly M, Bodart O, Ledoux D, Brichant J-F, Nobili L, Laureys S, Tononi G, Massimini M, Casali A G (2019). A fast and general method to empirically estimate the complexity of brain responses to transcranial and intracranial stimulations. <i>Brain Stimulation</i> 12(5):1280–1289. <a href="https://doi.org/10.1016/j.brs.2019.05.013">10.1016/j.brs.2019.05.013</a></sub>
 
 - <sub>Gogulski J, Cline C C, Ross J M, Truong J, Sarkar M, Parmigiani S, Keller C J (2024). Mapping cortical excitability in the human dorsolateral prefrontal cortex. <i>Clinical Neurophysiology</i> 164:138–148. <a href="https://doi.org/10.1016/j.clinph.2024.05.008">10.1016/j.clinph.2024.05.008</a></sub>
 
@@ -131,6 +133,8 @@ This project is licensed under the MIT License.
 
 - <sub>Rosanova M, Casali A, Bellina V, Resta F, Mariotti M, Massimini M (2009). Natural frequencies of human corticothalamic circuits. <i>Journal of Neuroscience</i> 29(24):7679–7685.</sub>
 
+- <sub>Rosanova M, Gosseries O, Casarotto S, Boly M, Casali A G, Bruno M-A, Mariotti M, Boveroux P, Tononi G, Laureys S, Massimini M (2012). Recovery of cortical effective connectivity and recovery of consciousness in vegetative patients. <i>Brain</i> 135(4):1308–1320. <a href="https://doi.org/10.1093/brain/awr340">10.1093/brain/awr340</a></sub>
+
 - <sub>Russo S, Sarasso S, Puglisi G E, Dal Palù D, Pigorini A, Casarotto S, D'Ambrosio S, Astolfi A, Massimini M, Rosanova M, Fecchio M (2022). TAAC — TMS Adaptable Auditory Control: a universal tool to mask TMS clicks. <i>Journal of Neuroscience Methods</i> 370:109491. <a href="https://doi.org/10.1016/j.jneumeth.2022.109491">10.1016/j.jneumeth.2022.109491</a></sub>
 
 - <sub>Stango A, Zazio A, Barchiesi G, Bonfiglio N S, Bortoletto M (2025). Impact of high-frequency sampling rate and stimulation intensity on early TMS artifacts: considerations for immediate TMS-EEG responses. <i>NeuroImage</i> 320:121526. <a href="https://doi.org/10.1016/j.neuroimage.2025.121526">10.1016/j.neuroimage.2025.121526</a></sub>
@@ -156,6 +160,8 @@ This project is licensed under the MIT License.
 - <sub><b>NaviNIBS</b> — <a href="https://github.com/precisionneurolab/navinibs">github.com/precisionneurolab/navinibs</a></sub>
 
 - <sub><b>Nexstim NBS / SmartFocus nTMS E-field navigation</b> — <a href="https://www.nexstim.com/research/tms-eeg">nexstim.com</a></sub>
+
+- <sub><b>PCIst</b> (perturbational complexity index, state transitions) — <a href="https://github.com/renzocom/PCIst">github.com/renzocom/PCIst</a></sub>
 
 - <sub><b>PyTEP-SOUND-SSP-SIR</b> — <a href="https://github.com/MarcioCamposJr/PyTEP-SOUND-SSP-SIR">github.com/MarcioCamposJr/PyTEP-SOUND-SSP-SIR</a></sub>
 

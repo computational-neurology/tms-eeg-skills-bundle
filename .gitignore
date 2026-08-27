@@ -25,3 +25,7 @@ __pycache__/
 
 # Local raw source corpus used to author distilled TMS-EEG skill cards
 TMS-EEG-artifacts/
+
+# Source articles are never collected in this repo — cards cite by DOI.
+# Keeps the repo small and avoids redistributing publisher PDFs.
+*.pdf

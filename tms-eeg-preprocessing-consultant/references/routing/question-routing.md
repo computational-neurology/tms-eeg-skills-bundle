@@ -26,6 +26,7 @@ tags:
 | Sensory confounds or auditory/somatosensory controls | `artifacts/auditory-somatosensory-confounds.md` | `papers/biabani-2024-sensory-inputs-three-sites.md`, `papers/biabani-2019-sensory-inputs.md`, `papers/gordon-2018-realistic-sham.md`, `papers/gordon-2026-somatosensory-inputs.md` |
 | Are early TEPs clean, early-window topography or source estimates, residual muscle after ICA | `papers/biabani-2024-sensory-inputs-three-sites.md` | `artifacts/overcleaning-and-ica-risk.md`, `artifacts/muscle-artifact.md`, `steps/muscle-artifact-handling.md` |
 | Comparing TEP amplitude across stimulation sites or participant groups | `papers/biabani-2024-sensory-inputs-three-sites.md` | `artifacts/auditory-somatosensory-confounds.md`, `papers/gogulski-2024-dlpfc-tep-reliability.md` |
+| PCI, PCIst, perturbational complexity, why PCI increased/decreased, consciousness/DOC assessment | `steps/pci.md` | `papers/comolatti-2019-pcist.md`, `papers/casarotto-2024-pci-mcs-eeg-dissociation.md`, `repos/pcist.md` |
 | Natural frequencies, oscillatory TEPs, effective connectivity | `papers/rosanova-2009-natural-frequencies.md` | `papers/massimini-2005-breakdown-effective-connectivity-sleep.md`, `papers/casali-2012-consciousness-effective-connectivity.md` |
 | Only code | `routing/code-language-selection.md` | Relevant pipeline card, `recipes/*.md`, repo card, software lookup policy |
 | Beginner explanation | Relevant pipeline card | Step cards named by that pipeline |

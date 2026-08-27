@@ -8,7 +8,7 @@ journal: Journal of Neuroscience Methods 370:109491
 doi: 10.1016/j.jneumeth.2022.109491
 license: CC BY-NC-ND 4.0
 code: https://github.com/iTCf/TAAC
-source_pdf: ../../../assets/1-s2.0-S0165027022000188-main.pdf
+source_pdf: 1-s2.0-S0165027022000188-main.pdf  # not stored in repo; locate via doi
 tags:
   - masking
   - auditory

@@ -44,4 +44,4 @@ How can TMS-EEG reveal breakdown of effective connectivity during sleep?
 
 ## Related Cards
 
-`papers/casali-2012-consciousness-effective-connectivity.md`; `papers/momi-2023-recurrent-network-dynamics.md`.
+`steps/pci.md`; `papers/comolatti-2019-pcist.md`; `papers/casali-2012-consciousness-effective-connectivity.md`; `papers/momi-2023-recurrent-network-dynamics.md`.

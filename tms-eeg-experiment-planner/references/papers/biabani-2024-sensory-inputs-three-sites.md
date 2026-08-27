@@ -8,7 +8,7 @@ journal: Imaging Neuroscience 2
 doi: 10.1162/imag_a_00349
 license: CC BY 4.0
 code: https://github.com/BMHLab/TEPs-PEPs
-source_pdf: ../../../assets/imag_a_00349.pdf
+source_pdf: imag_a_00349.pdf  # not stored in repo; locate via doi
 tags:
   - design:sensory-controls
   - design:sham

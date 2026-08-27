@@ -33,6 +33,7 @@ For acquisition, online QC, target/coil adjustment, source-analysis cautions, an
 - Automated ARTIST/AARATEP workflow: `references/pipelines/automated-artist-aaratep.md`
 - TEP modeling / PyTepFit analysis branch: `references/pipelines/tepfit-network-modeling-analysis.md`
 - Immediate TEP/i-TEP early-response branch: `references/pipelines/itep-early-response-analysis.md`
+- PCI / perturbational complexity (nature, interpretation, computation): `references/steps/pci.md`
 - Cross-pipeline step-order comparison: `references/pipeline-tables/preprocessing-step-order.md`
 
 ## Code Writing
@@ -59,6 +60,7 @@ For manually prepared extended paper digests and preprocessing tables, follow `r
 ## Hard Rules
 
 - Do not claim TEP, GMFA, LMFP, or i-TEP amplitude is a pure measure of cortical excitability.
+- Never apply the PCI-LZ cutoff of `0.31` to a PCIst value, and never quote a single universal PCIst cutoff. The two metrics have different scales, and PCIst thresholds are montage-specific.
 - Do not compare TEP amplitude between stimulation sites or between participant groups without sensory ratings. N100/P200 differences are expected from differences in perceived click loudness and scalp muscle twitch alone.
 - Do not invent function signatures. Query Context7 when available; otherwise inspect the GitHub fallback in repo cards.
 - For i-TEPs, always mention residual pulse artifact, lead configuration, sampling/synchronization, recharge/decay, muscle artifact, and control-condition requirements.
