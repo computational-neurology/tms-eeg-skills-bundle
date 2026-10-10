@@ -4,7 +4,7 @@ A preliminary validation comparing answers of Claude Opus 5.5 **with** the TMS-E
 
 **Main finding:** with the skills, repeated answers to the same question converge on the same concrete, literature-anchored recommendations. Without the skills, the model gives a different protocol each time it is asked. This comes at a moderate cost: answers are ~20% longer and use ~1.5-2× more tokens.
 
-![Validation design](fig_validation_scheme.png)
+![Validation design](validation_scheme.png)
 
 ## Design
 
