@@ -1,0 +1,3 @@
+condition,answers,answers_with_citations,citation_instances,citations_per_answer_mean,unique_author_year,instances_author_year_exists,titled_references,titled_fully_correct,titled_with_error
+skill,42,15,38,0.9,13,38/38,0,0,0
+default,42,26,161,3.83,35,161/161,45,42,3

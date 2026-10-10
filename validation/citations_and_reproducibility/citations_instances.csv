@@ -1,0 +1,200 @@
+run_id,prompt_id,arm,surname,key,year,raw,in_reference_list,title,journal
+R0001,T10,B,Casarotto,casarotto,2016,Casarotto et al. (2016,False,,
+R0001,T10,B,Casali,casali,2013,"Casali et al., 2013)",False,,
+R0001,T10,B,Comolatti,comolatti,2019,"Comolatti et al., 2019",False,,
+R0001,T10,B,Comolatti,comolatti,2019,Comolatti et al. (2019),False,,
+R0001,T10,B,Casarotto,casarotto,2016,Casarotto et al. (2016),False,,
+R0002,T09,B,Premoli,premoli,2014,"Premoli et al., 2014",False,,
+R0003,T02,B,Bertazzoli,bertazzoli,2021,"Bertazzoli et al., 2021)",False,,
+R0003,T02,B,Casarotto,casarotto,2022,"Casarotto et al., 2022)",False,,
+R0003,T02,B,Rogasch,rogasch,2017,"Rogasch et al., 2017)",False,,
+R0003,T02,B,Mutanen,mutanen,2016,"Mutanen et al., 2016)",False,,
+R0003,T02,B,Mutanen,mutanen,2018,"Mutanen et al., 2018)",False,,
+R0003,T02,B,Wu,wu,2018,"Wu et al., 2018)",False,,
+R0003,T02,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023)",False,,
+R0007,O16,B,Rogasch,rogasch,2017,Rogasch et al. 2017,False,,
+R0007,O16,B,Mutanen,mutanen,2016,Mutanen et al. 2016,False,,
+R0007,O16,B,Conde,conde,2019,Conde et al. 2019,False,,
+R0007,O16,B,Rocchi,rocchi,2021,Rocchi et al. 2021,False,,
+R0007,O16,B,Bertazzoli,bertazzoli,2021,Bertazzoli et al. 2021,False,,
+R0007,O16,B,Belardinelli,belardinelli,2019,Belardinelli et al. 2019,False,,
+R0007,O16,B,Hernandez-Pavon,hernandez,2023,Hernandez-Pavon et al. 2023,False,,
+R0012,O09,B,Rogasch,rogasch,2017,- Rogasch NC et al. (2017). Analysing concurrent TMS-EEG: comparing preprocessing pipelines and the TESA toolbox. *Neuro,True,Analysing concurrent TMS-EEG: comparing preprocessing pipelines and the TESA toolbox,NeuroImage
+R0012,O09,B,Veniero,veniero,2009,"- Veniero D, Bortoletto M, Miniussi C (2009). TMS-EEG co-registration: on TMS-induced artifact. *Clinical Neurophysiolog",True,TMS-EEG co-registration: on TMS-induced artifact,Clinical Neurophysiology
+R0012,O09,B,Rogasch,rogasch,2014,- Rogasch NC et al. (2014). Removing artefacts from TMS-EEG recordings using independent component analysis: importance ,True,Removing artefacts from TMS-EEG recordings using independent component analysis: importance for assessing prefrontal and motor cortex network properties,NeuroImage
+R0012,O09,B,Mutanen,mutanen,2016,"- Mutanen TP et al. (2016). Recovering TMS-evoked EEG responses masked by muscle artifacts. *NeuroImage*, 139, 157–166.",True,Recovering TMS-evoked EEG responses masked by muscle artifacts,NeuroImage
+R0012,O09,B,Hernandez-Pavon,hernandez,2023,- Hernandez-Pavon JC et al. (2023). TMS combined with EEG: recommendations and open issues for data collection and analy,True,TMS combined with EEG: recommendations and open issues for data collection and analysis,Brain Stimulation
+R0015,O01,B,Rossi,rossi,2021,"Rossi et al., 2021)",False,,
+R0015,O01,B,Rossi,rossi,2021,- Rossi S. et al. (2021). Safety and recommendations for TMS use in healthy subjects and patient populations. *Clinical ,True,Safety and recommendations for TMS use in healthy subjects and patient populations,Clinical Neurophysiology
+R0015,O01,B,Casarotto,casarotto,2022,- Casarotto S. et al. (2022). The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical act,True,The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical activation and minimize artifacts,Journal of Neuroscience Methods
+R0015,O01,B,Stokes,stokes,2005,- Stokes M.G. et al. (2005/2007). Scalp-to-cortex distance and motor threshold adjustment for non-motor TMS. *Journal of,True,Scalp-to-cortex distance and motor threshold adjustment for non-motor TMS,Journal of Neurophysiology
+R0015,O01,B,Hernandez-Pavon,hernandez,2023,- Hernandez-Pavon J.C. et al. (2023). TMS combined with EEG: recommendations and open issues for data collection and ana,True,TMS combined with EEG: recommendations and open issues for data collection and analysis,Brain Stimulation
+R0015,O01,B,Kähkönen,kahkonen,2005,- Kähkönen S. et al. (2005). Prefrontal TMS produces smaller EEG responses than motor-cortex TMS. *Psychopharmacology.*,True,Prefrontal TMS produces smaller EEG responses than motor-cortex TMS,Psychopharmacology
+R0020,O04,B,Massimini,massimini,2005,Massimini et al. (2005),False,,
+R0020,O04,B,Russo,russo,2022,"Russo et al., 2022)",False,,
+R0020,O04,B,Conde,conde,2019,"Conde et al., 2019",False,,
+R0020,O04,B,Rocchi,rocchi,2021,"Rocchi et al., 2021)",False,,
+R0020,O04,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023)",False,,
+R0020,O04,B,Massimini,massimini,2005,Massimini et al. (2005),True,",",Science
+R0020,O04,B,ter Braack,braack,2015,ter Braack et al. (2015),False,,
+R0020,O04,B,Conde,conde,2019,Conde et al. (2019),True,",",NeuroImage
+R0020,O04,B,Biabani,biabani,2019,Biabani et al. (2019),False,,
+R0020,O04,B,Rocchi,rocchi,2021,Rocchi et al. (2021),True,",",Brain Stimulation
+R0020,O04,B,Russo,russo,2022,Russo et al. (2022),True,",",J Neurosci Methods
+R0020,O04,B,Casarotto,casarotto,2022,Casarotto et al. (2022),True,",",J Neurosci Methods
+R0020,O04,B,Hernandez-Pavon,hernandez,2023,Hernandez-Pavon et al. (2023),True,",",Brain Stimulation
+R0022,T10,A,Casali,casali,2013,"Casali et al., 2013)",False,,
+R0022,T10,A,Casali,casali,2013,Casali 2013),False,,
+R0022,T10,A,Comolatti,comolatti,2019,Comolatti 2019),False,,
+R0023,O10,B,Rogasch,rogasch,2014,Rogasch et al. (2014),False,,
+R0023,O10,B,Rogasch,rogasch,2017,"Rogasch et al., 2017)",False,,
+R0023,O10,B,Bertazzoli,bertazzoli,2021,"Bertazzoli et al., 2021",False,,
+R0023,O10,B,Rogasch,rogasch,2014,- Rogasch NC et al. (2014). Removing artefacts from TMS-EEG recordings using independent component analysis: importance ,True,Removing artefacts from TMS-EEG recordings using independent component analysis: importance for assessing prefrontal and motor cortex network properties,NeuroImage
+R0023,O10,B,Rogasch,rogasch,2017,- Rogasch NC et al. (2017). Analysing concurrent transcranial magnetic stimulation and electroencephalographic data: a r,True,Analysing concurrent transcranial magnetic stimulation and electroencephalographic data: a review and introduction to the open-source TESA software,NeuroImage
+R0023,O10,B,Mutanen,mutanen,2016,Mutanen TP et al. (2016,True,", 2018). SSP-SIR and SOUND methods for TMS-EEG artefact suppression",NeuroImage
+R0023,O10,B,Bertazzoli,bertazzoli,2021,- Bertazzoli G et al. (2021). The impact of artifact removal approaches on TMS–EEG signal. *NeuroImage*.,True,The impact of artifact removal approaches on TMS–EEG signal,NeuroImage
+R0023,O10,B,Hernandez-Pavon,hernandez,2023,- Hernandez-Pavon JC et al. (2023). TMS combined with EEG: recommendations and open issues for data collection and analy,True,TMS combined with EEG: recommendations and open issues for data collection and analysis,Brain Stimulation
+R0024,O01,B,Stokes,stokes,2005,"Stokes et al., 2005)",False,,
+R0024,O01,B,Casarotto,casarotto,2022,"Casarotto et al., 2022)",False,,
+R0024,O01,B,Mutanen,mutanen,2013,"Mutanen et al., 2013)",False,,
+R0024,O01,B,Conde,conde,2019,"Conde et al., 2019)",False,,
+R0024,O01,B,Rossi,rossi,2021,"Rossi et al., 2021)",False,,
+R0024,O01,B,Casarotto,casarotto,2022,- Casarotto S. et al. (2022). The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical act,True,The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical activation and minimize artifacts,J Neurosci Methods
+R0024,O01,B,Conde,conde,2019,- Conde V. et al. (2019). The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studie,True,The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studies,NeuroImage
+R0024,O01,B,Hernandez-Pavon,hernandez,2023,- Hernandez-Pavon J.C. et al. (2023). TMS combined with EEG: recommendations and open issues for data collection and ana,True,TMS combined with EEG: recommendations and open issues for data collection and analysis,Brain Stimulation
+R0024,O01,B,Mutanen,mutanen,2013,"- Mutanen T., Mäki H., Ilmoniemi R.J. (2013). The effect of stimulus parameters on TMS–EEG muscle artifacts. *Brain Stim",True,The effect of stimulus parameters on TMS–EEG muscle artifacts,Brain Stimulation
+R0024,O01,B,Rossi,rossi,2021,- Rossi S. et al. (2021). Safety and recommendations for TMS use in healthy subjects and patient populations. *Clinical ,True,Safety and recommendations for TMS use in healthy subjects and patient populations,Clinical Neurophysiology
+R0024,O01,B,Stokes,stokes,2005,- Stokes M.G. et al. (2005). Simple metric for scaling motor threshold based on scalp-cortex distance. *J Neurophysiol.*,True,Simple metric for scaling motor threshold based on scalp-cortex distance,J Neurophysiol
+R0029,T10,B,Casarotto,casarotto,2016,Casarotto et al. (2016),False,,
+R0029,T10,B,Comolatti,comolatti,2019,"Comolatti et al., 2019)",False,,
+R0029,T10,B,Comolatti,comolatti,2019,Comolatti et al. (2019),False,,
+R0029,T10,B,Casarotto,casarotto,2016,Casarotto et al. (2016),False,,
+R0030,O08,B,Rogasch,rogasch,2017,"Rogasch et al., 2017)",False,,
+R0030,O08,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023)",False,,
+R0030,O08,B,Mutanen,mutanen,2016,"Mutanen et al., 2016)",False,,
+R0030,O08,B,Mutanen,mutanen,2018,"Mutanen et al., 2018)",False,,
+R0030,O08,B,Wu,wu,2018,"Wu et al., 2018)",False,,
+R0031,T01,A,Biabani,biabani,2024,"Biabani et al., 2024)",False,,
+R0033,O16,B,Conde,conde,2019,"Conde et al., 2019",False,,
+R0033,O16,B,Gordon,gordon,2021,"Gordon et al., 2021)",False,,
+R0033,O16,B,Bertazzoli,bertazzoli,2021,"Bertazzoli et al., 2021)",False,,
+R0033,O16,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023)",False,,
+R0035,T10,A,Casali,casali,2013,"Casali et al., 2013)",False,,
+R0035,T10,A,Comolatti,comolatti,2019,"Comolatti et al., 2019)",False,,
+R0035,T10,A,Casali,casali,2013,Casali 2013),False,,
+R0035,T10,A,Comolatti,comolatti,2019,Comolatti 2019),False,,
+R0035,T10,A,Comolatti,comolatti,2019,Comolatti et al. (2019),False,,
+R0036,T05,A,Biabani,biabani,2024,"Biabani et al., 2024",False,,
+R0037,O10,A,Rogasch,rogasch,2017,Rogasch et al. 2017),False,,
+R0037,O10,A,Biabani,biabani,2024,Biabani et al. 2024),False,,
+R0038,T09,B,Premoli,premoli,2014,"Premoli et al., 2014",False,,
+R0040,T04,A,Gomez-Tames,gomez,2018,"Gomez-Tames et al., 2018",False,,
+R0040,T04,A,Biabani,biabani,2024,"Biabani et al., 2024",False,,
+R0040,T04,A,Balderston,balderston,2020,"Balderston et al., 2020)",False,,
+R0041,O06,B,Casarotto,casarotto,2022,Casarotto et al. (2022),False,,
+R0042,T05,B,Casarotto,casarotto,2022,"Casarotto et al., 2022)",False,,
+R0043,O10,B,Rogasch,rogasch,2014,Rogasch et al. (2014,False,,
+R0043,O10,B,Rogasch,rogasch,2017,"Rogasch et al., 2017)",False,,
+R0043,O10,B,Korhonen,korhonen,2011,"Korhonen et al., 2011)",False,,
+R0043,O10,B,Rogasch,rogasch,2017,"Rogasch et al., 2017",False,,
+R0043,O10,B,Bertazzoli,bertazzoli,2021,"Bertazzoli et al., 2021)",False,,
+R0043,O10,B,Mutanen,mutanen,2018,"Mutanen et al., 2018)",False,,
+R0043,O10,B,Mutanen,mutanen,2018,"Mutanen et al., 2018)",False,,
+R0043,O10,B,Wu,wu,2018,"Wu et al., 2018)",False,,
+R0043,O10,B,Atluri,atluri,2016,"Atluri et al., 2016)",False,,
+R0043,O10,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023",False,,
+R0046,O04,B,Nikouline,nikouline,1999,Nikouline et al. (1999),True,",",Clin Neurophysiol
+R0046,O04,B,Massimini,massimini,2005,Massimini et al. (2005),True,",",Science
+R0046,O04,B,ter Braack,braack,2015,ter Braack et al. (2015),False,,
+R0046,O04,B,Conde,conde,2019,Conde et al. (2019),True,",",NeuroImage
+R0046,O04,B,Rocchi,rocchi,2021,Rocchi et al. (2021),True,",",Brain Stimul
+R0046,O04,B,Russo,russo,2022,Russo et al. (2022),True,",",J Neurosci Methods
+R0046,O04,B,Hernandez-Pavon,hernandez,2023,Hernandez-Pavon et al. (2023),True,",",Brain Stimul
+R0046,O04,B,Rossi,rossi,2021,Rossi et al. (2021),True,",",Clin Neurophysiol
+R0047,O08,B,Rogasch,rogasch,2017,"Rogasch et al., 2017)",False,,
+R0047,O08,B,Wu,wu,2018,"Wu et al., 2018)",False,,
+R0048,T12,A,Biabani,biabani,2024,"Biabani et al., 2024",False,,
+R0048,T12,A,Biabani,biabani,2024,"Biabani et al., 2024)",False,,
+R0049,T01,A,Biabani,biabani,2024,"Biabani et al., 2024",False,,
+R0050,T04,B,Fox,fox,2012,Fox et al. (2012),False,,
+R0050,T04,B,Casarotto,casarotto,2022,"Casarotto et al., 2022",False,,
+R0050,T04,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023",False,,
+R0050,T04,B,Fox,fox,2012,- Fox MD et al. (2012). *Biological Psychiatry*. sgACC-anticorrelated DLPFC target.,True,,Biological Psychiatry
+R0050,T04,B,Casarotto,casarotto,2022,- Casarotto S et al. (2022). *Journal of Neuroscience Methods*. rt-TEP tool for real-time TEP optimisation.,True,,Journal of Neuroscience Methods
+R0050,T04,B,Hernandez-Pavon,hernandez,2023,- Hernandez-Pavon JC et al. (2023). *Brain Stimulation*. TMS-EEG recommendations and open issues.,True,,Brain Stimulation
+R0050,T04,B,Thielscher,thielscher,2015,- Thielscher A et al. (2015). SimNIBS E-field modelling.,True,SimNIBS E-field modelling,
+R0051,T04,A,Gomez-Tames,gomez,2018,Gomez-Tames et al. 2018),False,,
+R0051,T04,A,Biabani,biabani,2024,Biabani et al. 2024),False,,
+R0052,T01,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023",False,,
+R0052,T01,B,Casarotto,casarotto,2022,"Casarotto et al., 2022",False,,
+R0052,T01,B,Mutanen,mutanen,2013,"Mutanen et al., 2013)",False,,
+R0052,T01,B,Conde,conde,2019,"Conde et al., 2019)",False,,
+R0052,T01,B,Rossi,rossi,2021,"Rossi et al., 2021)",False,,
+R0052,T01,B,Stokes,stokes,2005,"Stokes et al., 2005)",False,,
+R0052,T01,B,Rossini,rossini,2015,"Rossini et al., 2015)",False,,
+R0052,T01,B,Rossini,rossini,2015,"Rossini et al., 2015)",False,,
+R0052,T01,B,Casarotto,casarotto,2022,"Casarotto et al., 2022",False,,
+R0052,T01,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023)",False,,
+R0052,T01,B,Rossini,rossini,2015,"Rossini et al., 2015)",False,,
+R0052,T01,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023)",False,,
+R0052,T01,B,Casarotto,casarotto,2022,"- Casarotto, S., et al. (2022). The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical a",True,The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical activation and minimize artifacts,Journal of Neuroscience Methods
+R0052,T01,B,Conde,conde,2019,"- Conde, V., et al. (2019). The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG stud",True,The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studies,NeuroImage
+R0052,T01,B,Hernandez-Pavon,hernandez,2023,"- Hernandez-Pavon, J. C., et al. (2023). TMS combined with EEG: Recommendations and open issues for data collection and ",True,TMS combined with EEG: Recommendations and open issues for data collection and analysis,Brain Stimulation
+R0052,T01,B,Mutanen,mutanen,2013,"- Mutanen, T., et al. (2013). Recovering TMS-evoked EEG responses masked by muscle artifacts. *NeuroImage*.",True,Recovering TMS-evoked EEG responses masked by muscle artifacts,NeuroImage
+R0052,T01,B,Rossi,rossi,2021,"- Rossi, S., et al. (2021). Safety and recommendations for TMS use in healthy subjects and patient populations, with upd",True,"Safety and recommendations for TMS use in healthy subjects and patient populations, with updates on training, ethical and regulatory issues",Clinical Neurophysiology
+R0052,T01,B,Rossini,rossini,2015,"- Rossini, P. M., et al. (2015). Non-invasive electrical and magnetic stimulation of the brain, spinal cord, roots and p",True,"Non-invasive electrical and magnetic stimulation of the brain, spinal cord, roots and peripheral nerves",Clinical Neurophysiology
+R0052,T01,B,Stokes,stokes,2005,"- Stokes, M. G., et al. (2005). Simple metric for scaling motor threshold based on scalp-cortex distance. *Journal of Ne",True,Simple metric for scaling motor threshold based on scalp-cortex distance,Journal of Neurophysiology
+R0055,T01,B,Casarotto,casarotto,2022,"Casarotto et al., 2022",False,,
+R0055,T01,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023",False,,
+R0055,T01,B,Rossi,rossi,2021,"Rossi et al., 2021)",False,,
+R0057,O10,A,Rogasch,rogasch,2017,"Rogasch et al., 2017)",False,,
+R0057,O10,A,Wu,wu,2018,"Wu et al., 2018)",False,,
+R0057,O10,A,Atluri,atluri,2016,"Atluri et al., 2016)",False,,
+R0057,O10,A,Biabani,biabani,2024,"Biabani et al., 2024)",False,,
+R0057,O10,A,Rogasch,rogasch,2022,"Rogasch et al., 2022)",False,,
+R0059,O09,A,Jamil,jamil,2024,"Jamil et al., 2024)",False,,
+R0060,T04,A,Gomez-Tames,gomez,2018,Gomez-Tames et al. 2018,False,,
+R0060,T04,A,Biabani,biabani,2024,Biabani et al. 2024),False,,
+R0060,T04,A,Balderston,balderston,2020,Balderston et al. 2020,False,,
+R0061,T12,B,Maris,maris,2007,"Maris & Oostenveld, 2007)",False,,
+R0061,T12,B,Sassenhagen,sassenhagen,2019,"Sassenhagen & Draschkow, 2019)",False,,
+R0061,T12,B,Conde,conde,2019,"Conde et al., 2019",False,,
+R0061,T12,B,Biabani,biabani,2019,"Biabani et al., 2019",False,,
+R0061,T12,B,Rocchi,rocchi,2021,"Rocchi et al., 2021",False,,
+R0061,T12,B,Gordon,gordon,2021,"Gordon et al., 2021)",False,,
+R0061,T12,B,Casarotto,casarotto,2022,"Casarotto et al., 2022)",False,,
+R0061,T12,B,Kilner,kilner,2013,"Kilner, 2013)",False,,
+R0061,T12,B,Rosanova,rosanova,2009,Rosanova et al. (2009),False,,
+R0061,T12,B,Maris,maris,2007,"- Maris E, Oostenveld R (2007). Nonparametric statistical testing of EEG- and MEG-data. *J Neurosci Methods*.",True,Nonparametric statistical testing of EEG- and MEG-data,J Neurosci Methods
+R0061,T12,B,Sassenhagen,sassenhagen,2019,"- Sassenhagen J, Draschkow D (2019). Cluster-based permutation tests of MEG/EEG data do not establish significance of ef",True,Cluster-based permutation tests of MEG/EEG data do not establish significance of effect latency or location,Psychophysiology
+R0061,T12,B,Kilner,kilner,2013,- Kilner JM (2013). Bias in a common EEG and MEG statistical analysis and how to avoid it. *Clin Neurophysiol*.,True,Bias in a common EEG and MEG statistical analysis and how to avoid it,Clin Neurophysiol
+R0061,T12,B,Rosanova,rosanova,2009,- Rosanova M et al. (2009). Natural frequencies of human corticothalamic circuits. *J Neurosci*.,True,Natural frequencies of human corticothalamic circuits,J Neurosci
+R0061,T12,B,Conde,conde,2019,- Conde V et al. (2019). The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studies,True,The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studies,NeuroImage
+R0061,T12,B,Biabani,biabani,2019,- Biabani M et al. (2019). Characterizing and minimizing the contribution of sensory inputs to TMS-evoked potentials. *B,True,Characterizing and minimizing the contribution of sensory inputs to TMS-evoked potentials,Brain Stimul
+R0061,T12,B,Rocchi,rocchi,2021,- Rocchi L et al. (2021). Disentangling EEG responses to TMS due to cortical and peripheral activations. *Brain Stimul*.,True,Disentangling EEG responses to TMS due to cortical and peripheral activations,Brain Stimul
+R0061,T12,B,Gordon,gordon,2021,- Gordon PC et al. (2021). Recording brain responses to TMS of primary motor cortex by EEG – utility of an optimized sha,True,Recording brain responses to TMS of primary motor cortex by EEG – utility of an optimized sham procedure,NeuroImage
+R0061,T12,B,Casarotto,casarotto,2022,- Casarotto S et al. (2022). The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical acti,True,The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical activation and minimize artifacts,J Neurosci Methods
+R0061,T12,B,Hernandez-Pavon,hernandez,2023,- Hernandez-Pavon JC et al. (2023). TMS combined with EEG: recommendations and open issues for data collection and analy,True,TMS combined with EEG: recommendations and open issues for data collection and analysis,Brain Stimul
+R0062,T10,A,Casali,casali,2013,"Casali et al., 2013)",False,,
+R0062,T10,A,Comolatti,comolatti,2019,"Comolatti et al., 2019)",False,,
+R0062,T10,A,Casali,casali,2013,Casali 2013),False,,
+R0062,T10,A,Comolatti,comolatti,2019,Comolatti 2019),False,,
+R0062,T10,A,Comolatti,comolatti,2019,Comolatti et al. (2019),False,,
+R0063,T01,B,Rossini,rossini,2015,"- Rossini PM et al. (2015). Non-invasive electrical and magnetic stimulation of the brain, spinal cord, roots and periph",True,"Non-invasive electrical and magnetic stimulation of the brain, spinal cord, roots and peripheral nerves",Clin Neurophysiol
+R0063,T01,B,Rossi,rossi,2021,- Rossi S et al. (2021). Safety and recommendations for TMS use in healthy subjects and patient populations. *Clin Neuro,True,Safety and recommendations for TMS use in healthy subjects and patient populations,Clin Neurophysiol
+R0063,T01,B,Casarotto,casarotto,2022,- Casarotto S et al. (2022). The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical acti,True,The rt-TEP tool: real-time visualization of TMS-evoked potentials to maximize cortical activation and minimize artifacts,J Neurosci Methods
+R0063,T01,B,Hernandez-Pavon,hernandez,2023,- Hernandez-Pavon JC et al. (2023). TMS combined with EEG: Recommendations and open issues for data collection and analy,True,TMS combined with EEG: Recommendations and open issues for data collection and analysis,Brain Stimul
+R0063,T01,B,Stokes,stokes,2005,- Stokes MG et al. (2005). Simple metric for scaling motor threshold based on scalp–cortex distance. *J Neurophysiol* 94,True,Simple metric for scaling motor threshold based on scalp–cortex distance,J Neurophysiol
+R0063,T01,B,Conde,conde,2019,- Conde V et al. (2019). The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studies,True,The non-transcranial TMS-evoked potential is an inherent source of ambiguity in TMS-EEG studies,NeuroImage
+R0064,T10,B,Casarotto,casarotto,2016,"Casarotto et al., 2016)",False,,
+R0064,T10,B,Comolatti,comolatti,2019,"Comolatti et al., 2019)",False,,
+R0064,T10,B,Casarotto,casarotto,2016,"Casarotto et al., 2016)",False,,
+R0064,T10,B,Comolatti,comolatti,2019,"Comolatti et al., 2019)",False,,
+R0064,T10,B,Casarotto,casarotto,2016,Casarotto et al. (2016),False,,
+R0064,T10,B,Comolatti,comolatti,2019,Comolatti et al. (2019),False,,
+R0066,T09,B,Premoli,premoli,2014,"Premoli et al., 2014",False,,
+R0069,O10,B,Hernandez-Pavon,hernandez,2023,"Hernandez-Pavon et al., 2023)",False,,
+R0073,O16,A,Gordon,gordon,2018,Gordon et al. 2018),False,,
+R0073,O16,A,Gordon,gordon,2026,Gordon et al. 2026),False,,
+R0078,O04,A,Russo,russo,2022,Russo et al. 2022),False,,
+R0078,O04,A,Russo,russo,2022,Russo et al. 2022,False,,
