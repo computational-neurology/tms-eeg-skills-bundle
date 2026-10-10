@@ -1,6 +1,6 @@
 # Reproducibility: examples
 
-Parameters "in all 3 repeats" were extracted automatically from the answers and checked in context. Full answers: `../03_answers/answers_by_question.md`.
+Parameters "in all 3 repeats" were extracted automatically from the answers and checked in context. Full answers: `../questions_and_answers/answers/` (index: `../questions_and_answers/answers_index.csv`).
 
 **O01: choosing stimulation intensity for DLPFC (open question).** All three skill answers gave the same operational procedure:
 - use RMT only as a starting reference (two runs gave 90-120% RMT), then titrate at the target with short online averages of 10-30 trials;
